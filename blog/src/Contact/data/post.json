@@ -1,0 +1,20 @@
+[ 
+     {
+    "title":"React Native - why is it good",
+     "description":" React Native is an open-source mobile application framework created by Facebook, Inc. It is used to develop applications for Android, iOS, Web and UWP by enabling developers to use React along with native platform capabilities. An incomplete port for Qt also exists.",
+     "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png", 
+     "category":"Programming"
+    },
+
+    {
+      "title":"What is React JS?" ,
+     "description":"React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.", 
+     "image":"https://i.ytimg.com/vi/JPT3bFIwJYA/maxresdefault.jpg",
+      "category":"Programming"
+    },
+    {"title": "What is Football?", 
+    "description": "Association football, more commonly known as football or soccer, is a team sport played with a spherical ball between two teams of 11 players. It is played by approximately 250 million players in over 200 countries and dependencies, making it the world's most popular sport.",
+     "image":"https://daily.jstor.org/wp-content/uploads/2018/06/soccer_europe_1050x700.jpg", 
+     "category":"Sport"
+    }
+]

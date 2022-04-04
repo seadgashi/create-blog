@@ -1,0 +1,39 @@
+.home {
+    margin: auto;
+    width: 50%;
+    border: 2px solid gray;
+    border-radius: 15px;
+    padding: 30px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 5px;
+    overflow: hidden;
+    background-color:#7a7a7a;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  .red{
+      background-color: red;
+  }
+  
+
+  
